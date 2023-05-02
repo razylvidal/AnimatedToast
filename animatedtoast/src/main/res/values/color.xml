@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="custom_snackbar_color_success">#63b138</color>
+    <color name="custom_snackbar_color_error">#ff2a4e</color>
+    <color name="custom_snackbar_color_warning">#FEB705</color>
+    <color name="custom_snackbar_text_color">#000000</color>
+
+</resources>
